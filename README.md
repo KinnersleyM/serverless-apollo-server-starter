@@ -16,6 +16,12 @@ This starter includes the [serverless-bundle](https://github.com/AnomalyInnovati
 
 ### Installation
 
+Create a serverless project
+
+```bash
+serverless install --url https://github.com/kinnersleym/serverless-apollo-server-starter --name your-project-name
+```
+
 Install the Node.js packages
 
 ```bash
