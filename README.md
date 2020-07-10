@@ -1,4 +1,4 @@
-# Serverless Node.js Starter
+# Serverless Apollo Server Starter
 
 A Serverless starter for Apollo Server. This is an extension of the popular [Serverless Node.js Starter](https://github.com/AnomalyInnovations/serverless-nodejs-starter) repo.
 
